@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.13.5
 
 VOLUME /usr/src/app
 WORKDIR /usr/src/app
